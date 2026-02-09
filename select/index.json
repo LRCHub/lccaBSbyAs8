@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "プシュケー",
+  "base_artist": "wotaku",
+  "createdAt": "2026-02-09T03:34:42.265726Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "プシュケー (feat. 初音ミク)",
+      "artist": "wotaku",
+      "has_synced": false,
+      "path": "select/pl_01_プシュケー_(feat._初音ミク)_wotaku.txt"
+    }
+  ]
+}
